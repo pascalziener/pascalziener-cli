@@ -1,7 +1,7 @@
 {
   "name": "pascalziener-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
-    "ziener": "index.mjs"
+    "pascalziener": "index.mjs"
   }
 }
