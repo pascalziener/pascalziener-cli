@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+import clearAnyConsole from 'clear-any-console'
+
+clearAnyConsole()
 console.log(`
   Pascal Ziener - Software Engineer
 
